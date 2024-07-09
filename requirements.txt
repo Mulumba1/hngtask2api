@@ -18,7 +18,8 @@ Mako==1.3.5
 MarkupSafe==2.1.5
 packaging==24.1
 pluggy==1.5.0
-psycopg2-binary==2.9.1
+psycopg2==2.9.9
+psycopg2-binary==2.9.9
 PyJWT==2.8.0
 pytest==8.2.2
 SQLAlchemy==2.0.31
